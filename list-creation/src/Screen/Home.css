@@ -1,0 +1,36 @@
+.App {
+    text-align:start;
+  }
+  ul{
+    list-style-type: none;
+  }
+  .Heading{
+    text-align:center;
+  }
+  
+  .list-container{
+    display:flex;
+    background-color:aliceblue;
+    padding: 10px;
+  }
+  .list-container li{
+    list-style-type: none;
+    margin-right: 10px;
+  }
+  .each-item{
+    background-color: white;
+    margin-bottom: 10px;
+    padding: 10px;
+  }
+  .list-item{
+    height: 400;
+  }
+  .create-list-btn{
+    background-color:blue;
+    width: 200px;
+    height: 50px;
+    align-items: center;
+    justify-content: center;
+  }
+  
+  
